@@ -1,2 +1,4 @@
 # Leetcode
-some solutions to leetcode problems
+Easy problems to practice programming languages.
+
+Medium and hard ones to practice algorithm.
