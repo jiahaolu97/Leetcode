@@ -12,5 +12,6 @@ class Solution {
             set.add(sb.toString());
         }
         return set.size();
+        
     }
 }
