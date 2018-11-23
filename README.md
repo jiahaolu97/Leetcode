@@ -1,4 +1,4 @@
 # Leetcode
-Easy problems to practice programming languages.
 
-Medium and hard ones to practice algorithm.
+My Leetcode Solutions.
+My Leetcode profile : https://leetcode.com/roy_mustung/
